@@ -14,16 +14,14 @@ function App() {
         path='/'
         element={<Layout />}
       >
-        <Route path='/'>
-          <Route
-            index
-            element={<Items />}
-          />
-          <Route
-            path='/:id'
-            element={<ItemDetails />}
-          />
-        </Route>
+        <Route
+          index
+          element={<Items />}
+        />
+        <Route
+          path='/:id'
+          element={<ItemDetails />}
+        />
 
         <Route
           path='*'

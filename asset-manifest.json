@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gmtest/static/css/main.06c6f79e.css",
-    "main.js": "/gmtest/static/js/main.a0360f6a.js",
+    "main.js": "/gmtest/static/js/main.679eb2b7.js",
     "static/media/sprite.svg": "/gmtest/static/media/sprite.6ca605d4a55526327eebde5ed9c71d2e.svg",
     "index.html": "/gmtest/index.html",
     "main.06c6f79e.css.map": "/gmtest/static/css/main.06c6f79e.css.map",
-    "main.a0360f6a.js.map": "/gmtest/static/js/main.a0360f6a.js.map"
+    "main.679eb2b7.js.map": "/gmtest/static/js/main.679eb2b7.js.map"
   },
   "entrypoints": [
     "static/css/main.06c6f79e.css",
-    "static/js/main.a0360f6a.js"
+    "static/js/main.679eb2b7.js"
   ]
 }

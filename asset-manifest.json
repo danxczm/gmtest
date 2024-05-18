@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gmtest/static/css/main.06c6f79e.css",
+    "main.js": "/gmtest/static/js/main.72c6f39b.js",
+    "static/media/sprite.svg": "/gmtest/static/media/sprite.6ca605d4a55526327eebde5ed9c71d2e.svg",
+    "index.html": "/gmtest/index.html",
+    "main.06c6f79e.css.map": "/gmtest/static/css/main.06c6f79e.css.map",
+    "main.72c6f39b.js.map": "/gmtest/static/js/main.72c6f39b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c6f79e.css",
+    "static/js/main.72c6f39b.js"
+  ]
+}

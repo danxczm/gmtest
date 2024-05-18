@@ -1,3 +1,4 @@
+import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { itemsData } from '../utils/data';
 import Icon from './Icon';

@@ -26,7 +26,7 @@ const ItemExcerpt = ({ item }) => {
             </div>
             <Link
                 className="absolute underline bottom-6 right-6 mobile:text-base tablet:text-2xl"
-                to={`/${id}`}
+                to={`gmtest/${id}`}
             >
                 View more
             </Link>

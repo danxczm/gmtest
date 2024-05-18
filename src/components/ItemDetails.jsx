@@ -31,7 +31,7 @@ const ItemDetails = () => {
             </div>
             <Link
                 className="absolute underline top-6 left-6 mobile:text-base tablet:text-2xl"
-                to={`/`}
+                to={`/gmtest/`}
             >
                 back to list
             </Link>
